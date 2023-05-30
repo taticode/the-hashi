@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "63a18a2e97ea3a6f0a4a0d48"
+  },
+  "dato": "oferta",
+  "imagen": "#",
+  "name": "¡200 yums extra!",
+  "descripcion": "Durante esta semana"
+},{
+  "_id": {
+    "$oid": "63a19ee797ea3a6f0a4a0d49"
+  },
+  "dato": "oferta",
+  "imagen": "#",
+  "name": "¡300 yums extra!",
+  "descripcion": "Durante esta semana"
+},{
+  "_id": {
+    "$oid": "63a19f2197ea3a6f0a4a0d4a"
+  },
+  "dato": "regalo",
+  "imagen": "#",
+  "name": "¡Cena gratis para dos!",
+  "descripcion": "Sólo para socios"
+},{
+  "_id": {
+    "$oid": "63a1a5ab97ea3a6f0a4a0d4c"
+  },
+  "dato": "oferta",
+  "imagen": "#",
+  "name": "¡200 Yums extra!",
+  "descripcion": "Durante esta semana"
+},{
+  "_id": {
+    "$oid": "63a1a5ab97ea3a6f0a4a0d4d"
+  },
+  "dato": "oferta",
+  "imagen": "#",
+  "name": "¡300 Yums extra!",
+  "descripcion": "Durante esta semana"
+},{
+  "_id": {
+    "$oid": "63a1a5ab97ea3a6f0a4a0d4e"
+  },
+  "dato": "regalo",
+  "imagen": "#",
+  "name": "¡Cena gratis!",
+  "descripcion": "Sólo para socios"
+},{
+  "_id": {
+    "$oid": "63a1a5ab97ea3a6f0a4a0d4f"
+  },
+  "dato": "regalo",
+  "imagen": "#",
+  "name": "¡Postre de regalo!",
+  "descripcion": "Por gasto igual o superior a 30 euros"
+},{
+  "_id": {
+    "$oid": "63a1a5ab97ea3a6f0a4a0d50"
+  },
+  "dato": "regalo",
+  "imagen": "#",
+  "name": "¡2 bebidas gratis!",
+  "descripcion": "Por tiempo limitado"
+}]
