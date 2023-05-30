@@ -8,8 +8,6 @@
 <p>Then you have to get into "the-hashi-app" folder and run the next commands: </p>
 <p>npm i</p>
 <p>npm start</p>
-<p>If everything was ok you can see the app running in your localhost like this:</p>
+<p>If everything was ok you can see the app running in your localhost</p>
 
-<img width="1438" alt="Captura de pantalla 2023-05-30 a las 19 09 04" src="https://github.com/taticode/the-hashi/assets/38464425/64a3acf5-d9f8-433d-9fe2-77b1ce2dd868">
-<img width="1438" alt="Captura de pantalla 2023-05-30 a las 19 09 13" src="https://github.com/taticode/the-hashi/assets/38464425/b1d80443-8901-499f-9a0c-5c3e6a7f4587">
 
